@@ -1,0 +1,48 @@
+---
+buzzwords: ! 'data: {"items":[{"label":"Streamlininess","value":3},{"label":"Turn-key","value":1},{"label":"Enterprise","value":1},{"label":"Web
+  2.0","value":1},{"label":"Synergy","value":3},{"label":"Paradigm shift","value":4},{"label":"Leverage","value":1}],"id":"buzzwords","updatedAt":1438065103}
+
+
+'
+valuation: ! 'data: {"current":9,"last":50,"id":"valuation","updatedAt":1438065103}
+
+
+'
+karma: ! 'data: {"current":4241,"last":163189,"id":"karma","updatedAt":1438065103}
+
+
+'
+synergy: ! 'data: {"value":8,"id":"synergy","updatedAt":1438065103}
+
+
+'
+convergence: ! 'data: {"points":[{"x":15,"y":10},{"x":16,"y":31},{"x":17,"y":17},{"x":18,"y":45},{"x":19,"y":23},{"x":20,"y":49},{"x":21,"y":28},{"x":22,"y":2},{"x":23,"y":35},{"x":24,"y":31}],"id":"convergence","updatedAt":1438065103}
+
+
+'
+HelloWorld: ! 'data: {"currentResult":"SUCCESS","lastResult":"SUCCESS","timestamp":1437723740489,"value":100,"health":"Build
+  stability: 1 out of the last 5 builds failed.","icon":"icon-health-60to79","id":"HelloWorld","updatedAt":1437728981}
+
+
+'
+? :job: HelloWorld
+: ! 'data: {"health":[{"description":"Build stability: 1 out of the last 5 builds
+  failed.","iconClassName":"icon-health-60to79","iconUrl":"health-60to79.png","score":80}],"id":{"job":"HelloWorld"},"updatedAt":1437398695}
+
+
+'
+HelloWorld2: ! 'data: {"currentResult":"FAILURE","lastResult":"FAILURE","timestamp":1437985950826,"value":100,"health":"Build
+  stability: 1 out of the last 5 builds failed.","icon":"icon-health-60to79","id":"HelloWorld2","updatedAt":1437997419}
+
+
+'
+Helena: ! 'data: {"currentResult":"SUCCESS","lastResult":"SUCCESS","timestamp":1437723740489,"value":100,"health":"Build
+  stability: 1 out of the last 5 builds failed.","icon":"icon-health-60to79","id":"Helena","updatedAt":1437729279}
+
+
+'
+HelloWorld1: ! 'data: {"currentResult":"SUCCESS","lastResult":"SUCCESS","timestamp":1437987130893,"value":100,"health":"Build
+  stability: 1 out of the last 5 builds failed.","icon":"health-60to79.png","id":"HelloWorld1","updatedAt":1438065095}
+
+
+'
